@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/lizzy/Class/learning-C-/Database/Database.csproj": {}
+    "/home/lisbeth/Class/learning-C-/Database/Database.csproj": {}
   },
   "projects": {
-    "/home/lizzy/Class/learning-C-/Database/Database.csproj": {
+    "/home/lisbeth/Class/learning-C-/Database/Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lizzy/Class/learning-C-/Database/Database.csproj",
+        "projectUniqueName": "/home/lisbeth/Class/learning-C-/Database/Database.csproj",
         "projectName": "Database",
-        "projectPath": "/home/lizzy/Class/learning-C-/Database/Database.csproj",
-        "packagesPath": "/home/lizzy/.nuget/packages/",
-        "outputPath": "/home/lizzy/Class/learning-C-/Database/obj/",
+        "projectPath": "/home/lisbeth/Class/learning-C-/Database/Database.csproj",
+        "packagesPath": "/home/lisbeth/.nuget/packages/",
+        "outputPath": "/home/lisbeth/Class/learning-C-/Database/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lizzy/.nuget/NuGet/NuGet.Config"
+          "/home/lisbeth/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
